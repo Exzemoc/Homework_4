@@ -7,4 +7,4 @@ def timenow(n):
         sleep(i / i)
 
 
-timenow(int(input()))
+timenow(int(input('Введите число: ')))
